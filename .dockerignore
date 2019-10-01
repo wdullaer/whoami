@@ -1,0 +1,10 @@
+# Docker related config
+docker-compose.yml
+Dockerfile
+
+# Documentation
+README.md
+.vscode/
+
+# Binaries
+whoami
